@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1699545094 source:c:\dev\prozd\fromscratch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699606337 source:c:\dev\prozd\fromscratch - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699623450 source:c:\dev\prozd\fromscratch - copy - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699623450 source:c:\dev\prozd\ue13 - wordlengthstatistics\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
